@@ -11,3 +11,12 @@ contact_links:
   - name: Official Support Plans
     url: https://www.bookstackapp.com/support/
     about: View our official support plans that offer assured support for business.
+
+  - name: 4xx Errors Of API
+    url: http://localhost:8080/books/faq-4xx-errors
+    about: Ошибки 4хх при интеграции API
+
+    
+  - name: 5xx Errors Of API
+    url: http://localhost:8080/books/faq-5xx-errors
+    about: Ошибки 5хх при интеграции API
